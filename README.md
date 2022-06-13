@@ -1,3 +1,5 @@
+_Not Finished, is in progress_
+
 # My-Obsidian-Brain
 Here we'll be my days, topics about what I'm learning
 
