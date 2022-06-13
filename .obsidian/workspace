@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "9c3806dc07217e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "67328828708ee0c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure DevOps Services.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b23120126fe132dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb1c674321d728e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4adcdb1df63d2a77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fa8fb495fdac6fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d809d93dd5424bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "09cb1c08a326a3d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd7bd1777ae467c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure DevOps Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "67328828708ee0c3",
+  "lastOpenFiles": [
+    "Azure DevOps Services.md",
+    "Herramientas para ayudar a que las organizaciones creen mejores soluciones.md",
+    "Azure DevTest Labs.md",
+    "GitHub.md",
+    "GitHub & GitHub Actions.md",
+    "Repos.md",
+    "DevOps.md",
+    "Ciclo Especializado/Azure.md",
+    "Azure Services.md",
+    "Azure Functions.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Una tabla de rutas permite definir reglas para dirigir el tráfico.

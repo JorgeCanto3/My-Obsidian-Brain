@@ -1,0 +1,2 @@
+# Informatica sin Servidor o Serverless de Azure
+Como sabemos la informatica sin servidor o [[ServerLess]] se usa para un entorno de ejecucion que se configura y administra de manera automatica, en el apartado mencionado anteriormente podemos concer mas de este serivicio. El cliente solo debe programar y configurar el editor visual. El servicio solo se cobra por el uso real del codigo.
