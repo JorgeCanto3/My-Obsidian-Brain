@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "67328828708ee0c3",
+        "id": "37dc1e7c7f7a1250",
         "type": "leaf",
+        "dimension": 49.333333333333336,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "85c82875a877d30e"
+      },
+      {
+        "id": "2b03fba15f8156d3",
+        "type": "leaf",
+        "dimension": 50.66666666666667,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Azure DevOps Services.md",
-            "mode": "source",
+            "file": "Herramientas de rendimiento en Azure.md",
+            "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "85c82875a877d30e"
       }
     ],
     "direction": "vertical"
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Portal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure DevOps Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67328828708ee0c3",
+  "active": "37dc1e7c7f7a1250",
   "lastOpenFiles": [
-    "Azure DevOps Services.md",
-    "Herramientas para ayudar a que las organizaciones creen mejores soluciones.md",
-    "Azure DevTest Labs.md",
-    "GitHub.md",
-    "GitHub & GitHub Actions.md",
-    "Repos.md",
-    "DevOps.md",
+    "Herramientas de rendimiento en Azure.md",
+    "Sesion 10.md",
+    "Ciclo Especializado.md",
+    "Repaso de las Semanas 1 y 2.md",
+    "portal.azure.com.md",
+    "Administracion de la nube.md",
+    "Azure Logic Apps.md",
+    "Herramientas de administracion en Azure.md",
     "Ciclo Especializado/Azure.md",
-    "Azure Services.md",
-    "Azure Functions.md"
+    "Herramientas para ayudar a que las organizaciones creen mejores soluciones.md"
   ]
 }
