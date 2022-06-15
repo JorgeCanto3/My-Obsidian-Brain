@@ -36,4 +36,4 @@ We select the file "My brain" that we download from the repo and now we have acc
 
 ![image](https://github.com/JorgeCanto3/My-Obsidian-Brain/blob/main/ReadMe/Graph.jpg)
 
-
+Once you see the graph you can go to the topic you need to study or look for it on the searcher
