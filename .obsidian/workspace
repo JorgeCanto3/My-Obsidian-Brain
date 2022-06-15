@@ -6,26 +6,10 @@
       {
         "id": "37dc1e7c7f7a1250",
         "type": "leaf",
-        "dimension": 49.333333333333336,
         "state": {
           "type": "graph",
           "state": {}
-        },
-        "group": "85c82875a877d30e"
-      },
-      {
-        "id": "2b03fba15f8156d3",
-        "type": "leaf",
-        "dimension": 50.66666666666667,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Herramientas de rendimiento en Azure.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "85c82875a877d30e"
+        }
       }
     ],
     "direction": "vertical"
