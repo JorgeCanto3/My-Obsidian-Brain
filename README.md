@@ -24,7 +24,7 @@ Open Obsidian, it should look like this
 
 Now we have to go back to the repo, we'll download it as a zip
 
-![image](https://github.com/JorgeCanto3/My-Obsidian-Brain/blob/main/ReadMe/Dow zip.jpg)
+![image](https://github.com/JorgeCanto3/My-Obsidian-Brain/blob/main/ReadMe/Dow-zip.jpg)
 
 We extract de file "My Brain" and save it where you prefer. I put it on my desk to be more accessible <br>
 
