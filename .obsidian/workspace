@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 49.333333333333336,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Herramientas de rendimiento en Azure.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "85c82875a877d30e"
       },
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas de rendimiento en Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
