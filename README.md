@@ -9,3 +9,6 @@ First to use this topics as it should be, you have to install [Obsidian](https:/
 
 ![image](https://user-images.githubusercontent.com/99236559/173404343-a5728083-e9b1-4aab-9958-bfa1f1f4052a.png)
 
+Now you have to download the installer
+
+![image](https://github.com/JorgeCanto3/My-Obsidian-Brain/blob/main/ReadMe/Installer.jpg)
