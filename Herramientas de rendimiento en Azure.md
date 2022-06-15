@@ -71,3 +71,6 @@ Si necesitamos supervisar los servicios de Azure es ideal Service Health para ma
 <h6>Para Azure Monitor
 
 Para un rendimiento o problemas con la maquina virtual, instancias, contendores es idoneo utilizar Azure Monitor y crear informes y notificaciones para entender el rendimiento de nuestros servicios o diagnosticar problemas. Tambien podemos medir eventos personalizados (** como agregados al codigo fuente de la aplicaciones de software** )y datos de telemetria y por ultimo  podemos configurar alerta de eventos relacionados con recursos especificos
+
+
+Viva españa
