@@ -69,3 +69,9 @@ Defender cuenta con defensas para las maquinas virtuales, seguridad de red e int
 - ** Supervisión de la integridad de los archivos**
 
 	- Esta funcion sirve para vigilar si hay cambios en archivos importantes, tanto en windows como linux, la congifuracion de los archivos o apps puede ser un ataque
+
+----
+
+<h2> Responder a las alertas 
+
+Para responder a las alertas podemos hacerlo con automatización usando conectores entre [[Azure Logic Apps]] y [[Azure Defender for Cloud]] y asi al detetectar amenazas podemos crear una accion para realizar una defensa.
