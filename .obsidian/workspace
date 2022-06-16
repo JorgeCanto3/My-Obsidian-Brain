@@ -6,33 +6,10 @@
       {
         "id": "1c97c241ea67cf65",
         "type": "leaf",
-        "dimension": 33.51528384279476,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "929ff1cb91901698",
-        "type": "leaf",
-        "dimension": 34.49781659388647,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sesion 11.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9fc4c0687fbf0c01",
-        "type": "leaf",
-        "dimension": 31.986899563318776,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Azure AD conect.md",
+            "file": "Azure Defender for Cloud.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesion 11.md",
+                "file": "Azure Defender for Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,16 +88,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "929ff1cb91901698",
+  "active": "1c97c241ea67cf65",
   "lastOpenFiles": [
-    "Sesion 11.md",
+    "Azure Defender for Cloud.md",
+    "Seguridad de Azure.md",
     "Azure AD conect.md",
+    "Sesion 11.md",
     "Active Directory.md",
     "Ciclo Especializado/Azure Services.md",
     "Azure Active Directory.md",
     "Ciclo Especializado/Ciclo Especializado.md",
-    "Azure Defender for Cloud.md",
-    "Seguridad de Azure.md",
     "Azure Key Vault.md",
     "Azure Sentinel.md"
   ]

@@ -161,3 +161,9 @@ Ayuda a cumplir las leyes
 Declaración de privacidad de Microsoft
 
 Como Microsoft trata nuestros datos
+
+Gobernanza 
+
+Establecer las reglas y que se cummplan las mismas
+
+Cumplimietno 
