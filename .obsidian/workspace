@@ -4,11 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "37dc1e7c7f7a1250",
+        "id": "1c97c241ea67cf65",
         "type": "leaf",
+        "dimension": 33.51528384279476,
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "929ff1cb91901698",
+        "type": "leaf",
+        "dimension": 34.49781659388647,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sesion 11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9fc4c0687fbf0c01",
+        "type": "leaf",
+        "dimension": 31.986899563318776,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure AD conect.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "d809d93dd5424bf7",
@@ -65,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sesion 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37dc1e7c7f7a1250",
+  "active": "929ff1cb91901698",
   "lastOpenFiles": [
-    "Herramientas de rendimiento en Azure.md",
-    "Sesion 10.md",
-    "Ciclo Especializado.md",
-    "Repaso de las Semanas 1 y 2.md",
-    "portal.azure.com.md",
-    "Administracion de la nube.md",
-    "Azure Logic Apps.md",
-    "Herramientas de administracion en Azure.md",
-    "Ciclo Especializado/Azure.md",
-    "Herramientas para ayudar a que las organizaciones creen mejores soluciones.md"
+    "Sesion 11.md",
+    "Azure AD conect.md",
+    "Active Directory.md",
+    "Ciclo Especializado/Azure Services.md",
+    "Azure Active Directory.md",
+    "Ciclo Especializado/Ciclo Especializado.md",
+    "Azure Defender for Cloud.md",
+    "Seguridad de Azure.md",
+    "Azure Key Vault.md",
+    "Azure Sentinel.md"
   ]
 }

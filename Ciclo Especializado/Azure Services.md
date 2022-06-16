@@ -15,3 +15,6 @@
 [[Servicios de IA de Azure]]
 [[Informatica sin Servidor o Serverless de Azure]]
 
+[[Seguridad de Azure]]
+
+[[Azure Active Directory]]
