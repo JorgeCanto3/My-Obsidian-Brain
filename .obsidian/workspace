@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1c97c241ea67cf65",
+        "id": "d0c0298891e82445",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seguridad de Azure.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b6a7aad98fd2a958",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Azure Dedicated Host.md",
-            "mode": "source",
+            "file": "Seguridad en la Red de Azure.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad de Azure.md",
+                "file": "Seguridad en la Red de Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c97c241ea67cf65",
+  "active": "d0c0298891e82445",
   "lastOpenFiles": [
-    "Seguridad de Azure.md",
-    "Azure Dedicated Host.md",
-    "Azure Key Vault.md",
-    "Azure Sentinel.md",
-    "Azure Defender for Cloud.md",
-    "Azure AD conect.md",
-    "Sesion 11.md",
-    "Active Directory.md",
+    "Seguridad en la Red de Azure.md",
+    "Azure DDos Protection.md",
+    "Azure Firewall.md",
+    "Ciclo Especializado/Repaso de las Semanas 1 y 2.md",
+    "Ciclo Especializado/Azure VPN Gateway.md",
+    "Sesion 12.md",
+    "Ciclo Especializado/Ciclo Especializado.md",
     "Ciclo Especializado/Azure Services.md",
-    "Azure Active Directory.md"
+    "Seguridad de Azure.md",
+    "Seguridad en los recursos de Azure.md"
   ]
 }
