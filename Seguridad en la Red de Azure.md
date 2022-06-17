@@ -88,3 +88,68 @@ El nivel de seguridad es la capacidad que tiene una organizacion poder protegers
 - [[Azure Firewall]]
 
 - [[Azure DDos Protection]] 
+
+- [[Grupos de seguridad de red]]
+
+<h2> Combinación de servicios de azure para una seguridad de red copleta
+
+<h3> Protección de la capa perimetral</h3>
+
+La capa perimetral trata sobre la protección de los recursos de su organización frente a ataques basados en red
+
+Identificar estos ataques, alertar a los equipos de seguridad adecuados y eliminar su impacto es importante para proteger la red
+
+Por ello:
+
+-  Use **Azure DDoS** Protection para filtrar los ataques a gran escala antes de que puedan causar una denegación de servicio para los usuarios.
+
+- **Azure Firewall** para identificar los ataques malintencionados contra la red y alertar sobre ellos.
+
+<h3> ## Protección de la capa de red</h3>
+
+El enfoque está en limitar la conectividad de la red en todos los recursos para permitir solo la necesaria. Cuando reducimos la conectividad reducimos el riesgo de que un ataque se desplace.
+
+Con los **grupos de red** podemos crear reglas para definir la comunicacíon entrante y salientes que se limita en esta capa.
+
+Procedimientos recomendados:
+
+- Limite la comunicación entre los recursos mediante la segmentación de la red y la configuración de controles de acceso
+
+-   Deniegue de forma predeterminada.
+
+-   Restrinja el acceso entrante de Internet y limite el saliente cuando sea apropiado.
+
+-   Implemente conectividad segura a las redes locales.
+
+<h3> Combinacion de servicios </h3>
+
+Con la combninacion podemos proporcionar mayor protección por capas.
+
+
+- **Grupos de seguridad de red y Azure Firewall**
+
+	- Azure Firewall complementa la funcionalidad de los grupos de seguridad de red. 
+	
+	- Los grupos de seguridad de red proporcionan filtrado de tráfico distribuido a nivel de red para limitar el tráfico a los recursos dentro de las redes virtuales de cada suscripción
+	
+	- FireWall proporciona protección de nivel de red y de aplicación en diferentes suscripciones y redes virtuales.
+
+
+- **Firewall de aplicaciones web(WAF) de Azure Application Gateway y Azure Firewall**
+
+	- WAF es una caracteristica de App  Gateway que protege a las apps webs centralizada en vulnerabilidades de seguridad comunes.
+
+	- Azure Firewall proporciona lo siguiente:
+		-  Protección entrante para protocolos que no son HTTP/S
+		-  Protección de nivel de red de salida para todos los puertos y protocolos.
+		-  Protección de nivel de aplicación para HTTP/S saliente.
+
+ <h1> Resumen
+
+-   Azure Firewall es un servicio de seguridad de red administrado y basado en la nube que ayuda a proteger los recursos en las redes virtuales de Azure.
+
+-   Una red virtual de Azure es similar a una red tradicional con la que trabajaría en un centro de datos propio. Permite que las máquinas virtuales y otros recursos de proceso se comuniquen de forma segura entre ellos, con Internet y con las redes locales.
+
+-   Un grupo de seguridad de red (NSG) le permite filtrar el tráfico de red desde y hacia los recursos de Azure dentro de una red virtual.
+
+-   Azure DDoS Protection ayuda a proteger los recursos de Azure frente a ataques DDoS.

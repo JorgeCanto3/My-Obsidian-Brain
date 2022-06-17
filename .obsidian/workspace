@@ -6,11 +6,38 @@
       {
         "id": "d0c0298891e82445",
         "type": "leaf",
+        "dimension": 20.060180541624874,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seguridad en la Red de Azure.md",
-            "mode": "preview",
+            "file": "Ciclo Especializado/Ciclo Especializado.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "67ce60151839921a",
+        "type": "leaf",
+        "dimension": 59.87963891675025,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure Capital.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3250d510a1eefb7a",
+        "type": "leaf",
+        "dimension": 20.060180541624874,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Seguridad en la Identidad en Azure.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad en la Red de Azure.md",
+                "file": "Azure Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0c0298891e82445",
+  "active": "67ce60151839921a",
   "lastOpenFiles": [
-    "Seguridad en la Red de Azure.md",
-    "Azure DDos Protection.md",
-    "Azure Firewall.md",
-    "Ciclo Especializado/Repaso de las Semanas 1 y 2.md",
-    "Ciclo Especializado/Azure VPN Gateway.md",
-    "Sesion 12.md",
+    "Azure Capital.md",
+    "Seguridad en la Identidad en Azure.md",
     "Ciclo Especializado/Ciclo Especializado.md",
-    "Ciclo Especializado/Azure Services.md",
     "Seguridad de Azure.md",
-    "Seguridad en los recursos de Azure.md"
+    "Ciclo Especializado/Azure Services.md",
+    "Ciclo Especializado/Azure.md",
+    "Seguridad en la Red de Azure.md",
+    "Grupos de seguridad de red.md",
+    "Azure DDos Protection.md",
+    "Azure Firewall.md"
   ]
 }
