@@ -6,7 +6,7 @@
       {
         "id": "d0c0298891e82445",
         "type": "leaf",
-        "dimension": 20.060180541624874,
+        "dimension": 22.737306843267106,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +19,11 @@
       {
         "id": "67ce60151839921a",
         "type": "leaf",
-        "dimension": 59.87963891675025,
+        "dimension": 55.18763796909493,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Azure Capital.md",
+            "file": "Track 2.md",
             "mode": "source",
             "source": false
           }
@@ -32,11 +32,11 @@
       {
         "id": "3250d510a1eefb7a",
         "type": "leaf",
-        "dimension": 20.060180541624874,
+        "dimension": 22.075055187637968,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seguridad en la Identidad en Azure.md",
+            "file": "Track 1.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Track",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Capital.md",
+                "file": "Track 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +118,15 @@
   },
   "active": "67ce60151839921a",
   "lastOpenFiles": [
+    "Track 2.md",
     "Azure Capital.md",
     "Seguridad en la Identidad en Azure.md",
     "Ciclo Especializado/Ciclo Especializado.md",
+    "Track 1.md",
     "Seguridad de Azure.md",
     "Ciclo Especializado/Azure Services.md",
     "Ciclo Especializado/Azure.md",
     "Seguridad en la Red de Azure.md",
-    "Grupos de seguridad de red.md",
-    "Azure DDos Protection.md",
-    "Azure Firewall.md"
+    "Grupos de seguridad de red.md"
   ]
 }
