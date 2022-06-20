@@ -15,3 +15,11 @@
 [[Herramientas de administracion en Azure]]
 
 [[Herramientas de rendimiento en Azure]]
+
+ 
+[[ Privacidad en Azure]]
+
+[[Costos de Azure]]
+
+
+[[Nivel de servcio (SLA)]]

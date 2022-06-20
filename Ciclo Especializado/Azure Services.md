@@ -10,6 +10,7 @@
 [[Azure Virtual Desktop]]
 [[Servicios de Red de Azure]]
 [[Azure Storage]]
+[[Azure Active Directory]]
 [[Servicios de análisis y bases de datos de Azure]]
 [[Servicios de Azure IoT]]
 [[Servicios de IA de Azure]]
@@ -17,4 +18,5 @@
 
 [[Seguridad de Azure]]
 
-[[Azure Active Directory]]
+
+[[Gobernanza en Azure]]

@@ -4,30 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c0298891e82445",
+        "id": "f7d8f21830cfe655",
         "type": "leaf",
+        "dimension": 50.22222222222222,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seguridad en la Identidad en Azure.md",
+            "file": "Nivel de servcio (SLA).md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "b83312513176bac1"
+        "group": "257876938d87bd80"
       },
       {
-        "id": "393d2e7607337637",
+        "id": "34731d355662d405",
         "type": "leaf",
+        "dimension": 49.77777777777778,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Seguridad en la Identidad en Azure.md",
-            "mode": "preview",
+            "file": "Nivel de servcio (SLA).md",
+            "mode": "source",
             "source": false
           }
         },
-        "group": "b83312513176bac1"
+        "group": "257876938d87bd80"
       }
     ],
     "direction": "vertical"
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Track",
+                "query": "tag:#Documentación ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,13 +87,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad en la Identidad en Azure.md",
+                "file": "Nivel de servcio (SLA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -103,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0c0298891e82445",
+  "active": "f7d8f21830cfe655",
   "lastOpenFiles": [
-    "Seguridad en la Identidad en Azure.md",
-    "Azure Active Directory.md",
-    "Track 2.md",
-    "Active Directory.md",
-    "Track 1.md",
-    "Ciclo Especializado/Azure Services.md",
+    "Nivel de servcio (SLA).md",
     "Ciclo Especializado/Azure.md",
-    "Ciclo Especializado/Ciclo Especializado.md",
-    "Azure Capital.md",
-    "Seguridad de Azure.md"
+    "Costos de Azure.md",
+    "Privacidad en Azure.md",
+    "Azure China21Vianet.md",
+    "Azure Goverment.md",
+    "Cloud Adoption Framework para Azure.md",
+    "Gobernanza en Azure.md",
+    "Azure Active Directory.md",
+    "Azure Policy.md"
   ]
 }
