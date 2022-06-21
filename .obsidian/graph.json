@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 4925022
       }
+    },
+    {
+      "query": "Sesion",
+      "color": {
+        "a": 1,
+        "rgb": 9837942
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27268599173601155,
+  "scale": 1.053497942386858,
   "close": true
 }

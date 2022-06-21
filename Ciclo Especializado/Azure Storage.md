@@ -14,13 +14,13 @@ Azure Storage cuenta con distintos servicios como:
 - [[Azure FIle Storage]]
 	-  Servicio que ofrece manejo total de archivos compartidos en la nube.
 
-- [[Disk Storage]] 
+- [[Azure Disk Storage]] 
 	-  Servicio que provee discos para las maquinas virtuales y aplicaciones para accesar y usarlo como se necesite. Ofrece HDD y SDD
 
 - Azure Table Storage
 	-  Ofrece un base de datos NoSQL ( Base de datos no relacional)
 	
-- Azure Queue Storage 
+-[[ Azure Queue Storage ]]
 	- Ofrece mesanjes asincrónicos para la comunicacion entre aplicaciones y recursos
 
 Existen tres metodos para mejorar el manejo de la informacion de nuestro sitio web:
