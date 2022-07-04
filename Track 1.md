@@ -13,7 +13,7 @@ En microsoft cuando se abre un DataCenter se abren minimo 3 para ofrecer una Alt
 
 Un centro de datos cuenta con Macrocomputadoras para proveer todos los servicios de la nube. 
 
-Los mecanismo de seguridad son estrictos por los datos que se almacenan, pueden hacernos una deteccion de metales ademas se ingresa por datos biometricos.
+Los mecanismos de seguridad son estrictos por los datos que se almacenan, pueden hacernos una deteccion de metales ademas se ingresa por datos biometricos.
 
 Advisor y Monitor nos ayudan a medir la trasabilidar y los encontramos la telemetria de los servicios
 

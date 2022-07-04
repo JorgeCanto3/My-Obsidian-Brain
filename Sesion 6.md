@@ -125,6 +125,36 @@ Base de datos igual a [[Azure SQL Database]] pero con MySQL es diferente motor p
 
 Base de datos igual a [[Azure SQL Database]] pero con PostgreSQL, OpenSource pero puede venir con un Servidor Único basico de uso general u optimizado para la memoria o con HyperScale citus para admitir una gran cantidad de datos
 
+Tiers de PostgreSQL
+
+- Basic
+	- Uso
+		- Cargas de trabajo ligeras en la computadora y en el rendimiento
+	- Carcateristicas
+		- GEN4,5
+		- Cores 1,2
+		- Memory per core 2gb
+		- Storage Size 5gb to 1tb
+		- DataBase backup 7 a 35 dias
+- General purpose
+	- Uso
+		- Utilizado para cargas empresariales que requieren balanceo entre computadora y memoria con escalabilidad
+	- Caracteristicas
+		- GEN4,5
+		- Cores 2, 4, 8, 16, 32, 64
+		- Memory per core 5gb
+		- Storage Size 5gb to 1tb
+		- DataBase backup 7 a 35 dias
+- Memory Optimized
+	-Uso
+		- Bases de datos con alto rendimiento para cargas de memoria que requieren un rendimineto rapido apra la transaccion y precesamiento 
+	- Caracteristicas
+		- GEN 5
+		- Cores 2, 4, 8, 16, 32
+		- Memory per core 10gb
+		- Storage Size 5gb to 1tb
+		- DataBase backup 7 a 35 dias
+
 **Practica**
 
 -------------

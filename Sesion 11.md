@@ -166,4 +166,4 @@ Gobernanza
 
 Establecer las reglas y que se cummplan las mismas
 
-Cumplimietno 
+Cumplimiento

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fae73b30c8dc283f",
+        "id": "cb485e1cdb1baacb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sesion 7.md",
+            "file": "Repaso.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SLA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "d809d93dd5424bf7",
@@ -71,8 +70,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesion 7.md",
-                "collapseAll": false,
+                "file": "Repaso.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -86,20 +85,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 304,
     "collapsed": true
   },
-  "active": "fae73b30c8dc283f",
+  "active": "cb485e1cdb1baacb",
   "lastOpenFiles": [
-    "Sesion 7.md",
+    "Repaso.md",
+    "Ciclo Especializado/Repaso de las Semanas 1 y 2.md",
+    "Sesion 9.md",
+    "Untitled.md",
     "Ciclo Especializado/Administracion de la nube.md",
-    "Ciclo Especializado/Azure Cloud Shell.md",
-    "Ciclo Especializado/portal.azure.com.md",
-    "Ciclo Especializado/Ciclo Especializado.md",
-    "Sesion 6.md",
-    "Ciclo Especializado/Azure Cosmos DB.md",
-    "Ciclo Especializado/Azure Blob Storage.md",
-    "Azure Queue Storage.md",
-    "Ciclo Especializado/Azure Storage.md"
+    "Ciclo Especializado/DevOps.md",
+    "Ciclo Especializado/Azure Database for PostgreSQL.md",
+    "Ciclo Especializado/Azure.md",
+    "Glosario.md",
+    "Track 2.md"
   ]
 }

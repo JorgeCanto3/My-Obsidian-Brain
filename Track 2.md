@@ -21,7 +21,11 @@
 	
 	- Sirve par economisar o evitar más gasto CapEx
 
+#### Instancias Reservadas
 
+Se ofrecen Reservas de Azure en muchos servicios como una forma de reducir el costo. Se reserva una capacidad de prepago para un período, generalmente de uno o tres años.
+
+--------
 
  - **Azure Virtual Machines Scales Sets**
 	 - Controlamos varias maquinas virtuales facilmente, podemos aumentarla y disminuirlas. Es util para administrarlas todas y replicarlas con facilidad.

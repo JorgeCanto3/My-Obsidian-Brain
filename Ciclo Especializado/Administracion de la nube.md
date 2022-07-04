@@ -48,7 +48,7 @@
 
 <h3> Azure Monitor
 
-- Monitorea el rendimiento de nuestras recursos, si se esta usando mucho Procesador, Ancho de Banda, CPU, Memoria. Podemos crear alerta ded rendimineto ademas de ver posibles errores de implementacion
+- Monitorea el rendimiento de nuestras recursos, si se esta usando mucho Procesador, Ancho de Banda, CPU, Memoria. Podemos crear alerta de rendimineto ademas de ver posibles errores de implementacion
 
 
 <h3> Azure Advisor    

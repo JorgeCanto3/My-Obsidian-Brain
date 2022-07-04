@@ -123,6 +123,8 @@ Con esto los Administradores de TI pueden:
 _Dependiendo de las señales sera si se pedira un 
  segundo factor de autenticacion_
 
+_Este acceso no esta disponible en todas las licencias de Azure AD_
+
 ### Cuando usar
 
 Util para 

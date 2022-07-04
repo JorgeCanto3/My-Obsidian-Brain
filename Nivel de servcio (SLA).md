@@ -1,6 +1,8 @@
 # Nivel de servcio (SLA)
 un _Acuerdo de Nivel de Servicio_ (SLA) es un contrato formal entre una empresa de servicios y el cliente.
 
+El tiempo de actividad garantizado para los servicios de Azure de pago en el SLA es, como mínimo 99,9%
+
 ## Importancia
 
 La comprensión del acuerdo de nivel de servicio de los servicios de Azure que use le ayudará a conocer las garantías que puede esperar.
@@ -91,3 +93,7 @@ Recuerde que necesita dos máquinas virtuales. Por lo tanto, el acuerdo de nivel
 Es la forma en que cada servicio de Azure se pone a disposición del público
 
 Cada servicio de Azure empieza con fase de desarrollo. En esta fase, el equipo de Azure recopila y define los requisitos y comienza a crear el servicio.
+
+
+## Aumentar el tiempo de actividad
+

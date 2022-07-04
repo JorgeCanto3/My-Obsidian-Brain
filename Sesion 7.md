@@ -54,3 +54,61 @@ Tambien podemos ver posibles fallas al implementar algun recursos y crear alerta
 **Cobro por alertas de metrica**
 
 **Practica min 55**
+
+### Azure Advisor
+**SaaS**
+
+Advisor nos recomienda sobre las cosas que podemos mejorar en nuestros recursos, para poder gastar menos, mejorar nuestra seguridad. Tambein podemos crear alerta 
+
+### Plantillas ARM (Azure Resource Mangement)
+Sirve para poder replicar los grupos de recursos, en estas plantillas se contiene todo lo que hizo azure para generar esa plantilla y la podemos utilizar para crear otro.
+
+Tambien sirve para documentar nuestro Grupo de recursos
+
+practica 1:22:00
+
+## DevOps (DeveloperOperations)
+Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos.
+
+Automatizamos el proceso de programaicion, IA, Ciencia ded datos, Arquitectura de soluciones, Tests, etc.
+
+Se hace más eficentos los procesos de los prgramadores
+
+### Azure DevOps
+**SaaS**
+
+Aqui se guarda codigo en repositorios como Github pero aqui es un entorno empresarial y mas privado
+
+Es un servicio que aborda cada fase del ciclo de vida del desarrollo de software, mejorando la gestion de software y hacemos más productivo el codigo de una empresa
+
+Este se puede implementar con App Service o Azure Functions
+
+Los serivicios de DevOps son los siguientes
+
+#### Azure Repos
+Repositorios de codigo centralizado en las empresas
+
+#### Azure Boards
+Gestionamos el proyecto con más facilidad con paneles Kanabn 
+
+#### Azure Pipelines
+Automatizamos los canales de CI (Continuos Integrecion, incluye pruebas antes de ser integrado )y CD (Continuos Deployment, se sube al momento)
+
+#### Azure Artifacts
+Hospeadamos codigos fuentes compilados y los alamacena de forma segura. Es un repo pero con el codigo compilado
+
+#### Azure Test Plans
+Pruebas automatizadas que podemos utilizar en la canalizacion de CI/CD
+
+### Github 
+Es casi lo mismo a Azure DevOps pero la diferencia es que DevOps es para un entorno empresarial y Github es un open source con el fin de colaborar con distintas personas
+
+Cuenta con muchos sevicios como CodeSpaces, Actions entre otros servicios.
+Los codespaces son un entorno en la nube para ejecutar un codigo y es posible programar en cualquier lado :D
+
+**Practica**
+### Azure DevTests Lab
+
+Automatiza la creacion y gestion de pruebas o maquinas virtuales para probar codigo, podemos implementar cualquier cosa que se haga con una plantilla ARM
+
+En otras palabras crea una MV para realizar pruebas de codigo
