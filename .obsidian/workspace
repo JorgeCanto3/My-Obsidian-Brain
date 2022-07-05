@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SLA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "d809d93dd5424bf7",
@@ -91,14 +92,14 @@
   "active": "cb485e1cdb1baacb",
   "lastOpenFiles": [
     "Repaso.md",
+    "Ciclo Especializado/Azure Services.md",
     "Ciclo Especializado/Repaso de las Semanas 1 y 2.md",
-    "Sesion 9.md",
-    "Untitled.md",
-    "Ciclo Especializado/Administracion de la nube.md",
-    "Ciclo Especializado/DevOps.md",
-    "Ciclo Especializado/Azure Database for PostgreSQL.md",
-    "Ciclo Especializado/Azure.md",
-    "Glosario.md",
-    "Track 2.md"
+    "Track 2.md",
+    "Sesion 8.md",
+    "Ciclo Especializado/Sesion 10.md",
+    "Sesion 11.md",
+    "Sesion 6.md",
+    "Azure Batch.md",
+    "Ciclo Especializado/Analisis y macrodatos.md"
   ]
 }
